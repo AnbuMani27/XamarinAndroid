@@ -1,0 +1,13 @@
+E:\C# Corner\Google Map and Marker\googlemap\googlemap\obj\Debug\assemblies\googlemap.dll
+E:\C# Corner\Google Map and Marker\googlemap\googlemap\obj\Debug\assemblies\Mono.Android.dll
+E:\C# Corner\Google Map and Marker\googlemap\googlemap\obj\Debug\assemblies\mscorlib.dll
+E:\C# Corner\Google Map and Marker\googlemap\googlemap\obj\Debug\assemblies\System.Core.dll
+E:\C# Corner\Google Map and Marker\googlemap\googlemap\obj\Debug\assemblies\System.dll
+E:\C# Corner\Google Map and Marker\googlemap\googlemap\obj\Debug\assemblies\System.Xml.dll
+E:\C# Corner\Google Map and Marker\googlemap\googlemap\obj\Debug\assemblies\System.Xml.Linq.dll
+E:\C# Corner\Google Map and Marker\googlemap\googlemap\obj\Debug\assemblies\Xamarin.Android.Support.v4.dll
+E:\C# Corner\Google Map and Marker\googlemap\googlemap\obj\Debug\assemblies\Xamarin.GooglePlayServices.Base.dll
+E:\C# Corner\Google Map and Marker\googlemap\googlemap\obj\Debug\assemblies\Xamarin.GooglePlayServices.Basement.dll
+E:\C# Corner\Google Map and Marker\googlemap\googlemap\obj\Debug\assemblies\Xamarin.GooglePlayServices.Maps.dll
+E:\C# Corner\Google Map and Marker\googlemap\googlemap\obj\Debug\assemblies\System.Runtime.Serialization.dll
+E:\C# Corner\Google Map and Marker\googlemap\googlemap\obj\Debug\assemblies\System.ServiceModel.Internals.dll

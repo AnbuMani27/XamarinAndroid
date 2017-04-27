@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        android:text="SELECT STUDENT DATA"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView1"
+        android:gravity="center" />
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/tableRow1">
+        <TextView
+            android:text="ID  :"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:id="@+id/textView2"
+            android:layout_width="wrap_content" />
+        <EditText
+            android:layout_column="1"
+            android:id="@+id/txtid"
+            android:layout_width="250dp"
+            android:layout_height="wrap_content"
+            android:hint="STUDENT ID" />
+        <Button
+            android:text="GET"
+            android:layout_column="2"
+            android:id="@+id/btn_select"
+            android:layout_width="wrap_content"
+            android:layout_marginLeft="10dp" />
+    </TableRow>
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_marginTop="20dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/tableRow2">
+        <TextView
+            android:text="Student Name     : "
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:id="@+id/txtview1"
+            android:layout_width="150dp" />
+        <TextView
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:layout_column="1"
+            android:id="@+id/txt_studentname" />
+    </TableRow>
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:id="@+id/tableRow3">
+        <TextView
+            android:text="Nick Name          : "
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:id="@+id/txtview2"
+            android:layout_width="150dp" />
+        <TextView
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:layout_column="1"
+            android:id="@+id/txt_nickname" />
+    </TableRow>
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:id="@+id/tableRow4">
+        <TextView
+            android:text="Dept                     : "
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:id="@+id/txtview3"
+            android:layout_width="150dp" />
+        <TextView
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:layout_column="1"
+            android:id="@+id/txt_dept" />
+    </TableRow>
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:id="@+id/tableRow5">
+        <TextView
+            android:text="Place                   : "
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:id="@+id/txtview4"
+            android:layout_width="150dp" />
+        <TextView
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:layout_column="1"
+            android:id="@+id/txt_place" />
+    </TableRow>
+</LinearLayout>

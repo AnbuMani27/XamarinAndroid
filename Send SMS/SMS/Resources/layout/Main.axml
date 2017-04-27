@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/lellayout"
+    android:background="#3E4095">
+    <RelativeLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:id="@+id/linearLayout3"
+        android:layout_height="wrap_content">
+        <TextView
+            android:text="TO"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView1"
+            android:gravity="top"
+            android:paddingTop="20dp" />
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:id="@+id/txtmobilenum"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="35dp" />
+        <Button
+            android:background="@drawable/addusergroup_48"
+            android:layout_width="42.7dp"
+            android:layout_alignParentRight="true"
+            android:layout_height="wrap_content"
+            android:id="@+id/btncontact"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="2dp" />
+    </RelativeLayout>
+    <LinearLayout
+        android:orientation="vertical"
+        android:minWidth="25px"
+        android:minHeight="25px"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/linearLayout3"
+        android:id="@+id/linearLayout6">
+        <EditText
+            android:inputType="textMultiLine"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/txtbodymsg" />
+    </LinearLayout>
+    <LinearLayout
+        android:orientation="vertical"
+        android:minWidth="25px"
+        android:minHeight="25px"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/linearLayout6"
+        android:id="@+id/linearLayout7">
+        <TableLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_below="@id/linearLayout3"
+            android:stretchColumns="*"
+            android:layout_height="wrap_content"
+            android:id="@+id/linearLayout5">
+            <TableRow
+                android:minWidth="25px"
+                android:minHeight="25px"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:id="@+id/tableRow1">
+                <Button
+                    android:text="Send"
+                    android:layout_width="wrap_content"
+                    android:layout_height="46.0dp"
+                    android:id="@+id/btnsmssend"
+                    android:layout_column="2" />
+            </TableRow>
+        </TableLayout>
+    </LinearLayout>
+</RelativeLayout>

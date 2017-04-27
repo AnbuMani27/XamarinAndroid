@@ -1,0 +1,8 @@
+Circleimage.MainActivity, Circleimage;md5c8f8d5d2b050ed48e7a7dd5f84acf36b.MainActivity
+Circleimage.MainActivity, Circleimage, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5c8f8d5d2b050ed48e7a7dd5f84acf36b.MainActivity
+Circleimage.MainActivity;md5c8f8d5d2b050ed48e7a7dd5f84acf36b.MainActivity
+circleimage.MainActivity;md5c8f8d5d2b050ed48e7a7dd5f84acf36b.MainActivity
+Refractored.Controls.CircleImageView, Refractored.Controls.CircleImageView;md5eae3ad6ed1b7f6713979aa7524906105.CircleImageView
+Refractored.Controls.CircleImageView, Refractored.Controls.CircleImageView, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5eae3ad6ed1b7f6713979aa7524906105.CircleImageView
+Refractored.Controls.CircleImageView;md5eae3ad6ed1b7f6713979aa7524906105.CircleImageView
+refractored.controls.CircleImageView;md5eae3ad6ed1b7f6713979aa7524906105.CircleImageView

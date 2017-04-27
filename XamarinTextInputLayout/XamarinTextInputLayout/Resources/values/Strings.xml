@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Hello">Hello World, Click Me!</string>
+    <string name="ApplicationName">XamarinTextInputLayout</string>
+
+  <string name="pro_Languages1">Type of Languages</string>
+  <string-array name="pro_Languages">
+    <item>C#</item>
+    <item>.Net</item>
+    <item>Java</item>
+    <item>C</item>
+    <item>C++</item>
+    <item>Swift</item>
+  </string-array>
+</resources>
